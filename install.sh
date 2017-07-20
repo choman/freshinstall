@@ -6,7 +6,7 @@ sudo add-apt-repository -y ppa:git-core/ppa
 sudo add-apt-repository -y ppa:tmsu/ppa
 
 sudo apt-get update
-sudo apt-get install -y git apt-fast di tmux ssh tmsu
+sudo apt-get install -y git apt-fast di tmux ssh tmsu mosh vim
 sudo apt-fast dist-upgrade -y
 
 #
