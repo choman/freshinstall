@@ -15,3 +15,5 @@ wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-
 sudo apt-get update
 sudo apt-fast install virtualbox-5.1
 
+
+curl https://www.teleconsole.com/get.sh | sh
